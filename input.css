@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#a{
+  margin: 15px;
+}
+#div{
+  align-items: center;
+  justify-content: center;
+  box-shadow: 1px 1px 1px;
+}
+.b{
+  box-shadow: 1px 0px 2px;
+}
